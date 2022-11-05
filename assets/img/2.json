@@ -1,0 +1,15 @@
+{
+  "name": "Marvel Heroes #2",
+  "description": "Ultimate marvel heroes",
+  "image": "https://firebasestorage.googleapis.com/v0/b/pingme-1799e.appspot.com/o/NFTs%2F2.png?alt=media",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Untitled design (12) "
+    },
+    {
+      "trait_type": "Characters",
+      "value": "vision"
+    }
+  ]
+}
